@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/Paula-Refaat/api-authentication-system-mongoose-express/assets/120932892/ab7f93d7-1448-4433-8d87-91be2014167a" alt="project-image" width="750"></p>
 
-## Introduction:
+## Introduction: 
 <p id="description">This repository contains a simple authentication system APT that can be used in any web application. The system supports user registration, login, and password reset. It also encrypts all passwords using a secure hashing algorithm.</p>
 
 ## 💻Technologies
