@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Authentication System</h1>
-
+ 
 <p align="center"><img src="https://github.com/Paula-Refaat/api-authentication-system-mongoose-express/assets/120932892/ab7f93d7-1448-4433-8d87-91be2014167a" alt="project-image" width="750"></p>
 
 ## Introduction: 
